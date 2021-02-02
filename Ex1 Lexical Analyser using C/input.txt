@@ -1,0 +1,24 @@
+/*
+Multi line comment..
+hi
+hi
+hi
+*/
+main()
+{
+
+int a = 5 , b = 10 ;
+if ( a > b )
+
+printf(\"a_is_greater\");
+else
+printf(\"b_is_greater\");
+sum = add(a,b) ;
+
+// This is a comment......
+
+double 7aid ;
+false = u > "8" ? a && b : a || b ;
+
+}
+
