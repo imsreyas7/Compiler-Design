@@ -9,3 +9,4 @@ Programs done as part of the *Compiler Design* integrated course
 3. Elimination of Immediate Left Recursion using C
 4. Recursive Descent Parser using C
 5. Desk Calculator using Yacc
+6. Syntax Checker using Yacc
