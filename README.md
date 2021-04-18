@@ -10,3 +10,4 @@ Programs done as part of the *Compiler Design* integrated course
 4. Recursive Descent Parser using C
 5. Desk Calculator using Yacc
 6. Syntax Checker using Yacc
+7. Three Address Code Genaration using Lex and Yacc
