@@ -1,0 +1,14 @@
+i: integer=1;
+a: real=4.2;
+b: char='c';
+c: integer=63;
+d: real=24.88;
+x: integer;
+
+begin
+    if (i>0) then
+        x=a+b*c/d;
+    else
+        x=a*b*c-d;
+    end if
+end
